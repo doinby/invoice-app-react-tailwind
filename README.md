@@ -2,9 +2,9 @@
 
 # Frontend Mentor - Invoice app solution
 
-This is a solution to the [Invoice app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl).
-
 Invoice App is a modern solution to help people keeping track of the day-to-day invoices and receipts. No more crumbly, faded receipts at the bottom of a drawer at tax time! Works seamlessly with ALL screen sizes.
+
+This is a solution to the [Invoice app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl).
 
 ## Table of contents
 
