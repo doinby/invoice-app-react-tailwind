@@ -2,7 +2,7 @@
 
 This is a solution to the [Invoice app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl).
 
-Invoice App is a modern solution to help people keeping track of the day-to-day invoices and receipts. No more crumbly, faded receipts at the bottom of a drawer at tax time! Works seamlessly with all screen sizes.
+Invoice App is a modern solution to help people keeping track of the day-to-day invoices and receipts. No more crumbly, faded receipts at the bottom of a drawer at tax time! Works seamlessly with ALL screen sizes.
 
 ## Table of contents
 
@@ -17,8 +17,6 @@ Invoice App is a modern solution to help people keeping track of the day-to-day 
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
