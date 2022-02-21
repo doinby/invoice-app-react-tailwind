@@ -1,6 +1,8 @@
 # Frontend Mentor - Invoice app solution
 
-This is a solution to the [Invoice app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Invoice app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl).
+
+Invoice App is a modern solution to help people keeping track of the day-to-day invoices and receipts. No more crumbly, faded receipts at the bottom of a drawer at tax time! Works seamlessly with all screen sizes.
 
 ## Table of contents
 
@@ -31,7 +33,8 @@ Users should be able to:
 - Save draft invoices, and mark pending invoices as paid
 - Filter invoices by status (draft/pending/paid)
 - Toggle light and dark mode
-- **Bonus**: Keep track of any changes, even after refreshing the browser (`localStorage` could be used for this if you're not building out a full-stack app)
+- **Stretch Goal**: Allow user to login and save their invoices on cloud storage
+- **Stretch Goal**: Upload and save picture of the physical invoice with each invoice entry 
 
 ### Screenshot
 
