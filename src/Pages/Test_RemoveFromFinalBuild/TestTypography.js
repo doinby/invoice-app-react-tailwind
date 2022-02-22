@@ -3,6 +3,7 @@ import React from 'react';
 export default function TestTypography() {
   return (
     <div class='flex flex-col gap-8'>
+      <h1>Typography</h1>
       <h1>H1 - Aliquam porttitor mauris sit amet orci Aenean</h1>
       <h2>H2 - Aliquam porttitor mauris sit amet orci Aenean</h2>
       <h3>H3 - Aliquam porttitor mauris sit amet orci Aenean</h3>
