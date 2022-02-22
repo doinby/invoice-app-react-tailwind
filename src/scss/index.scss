@@ -8,11 +8,45 @@ body {
   margin: 0;
   font-family: 'Spartan', sans-serif;
   font-size: 12px;
+  line-height: 15px;
+  letter-spacing: -0.25;
+}
+
+/* ===TYPOGRAPHY== */
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 700;
 }
 
 h1 {
   font-size: 32px;
-  font-weight: bold;
   line-height: 36px;
   letter-spacing: -1px;
+}
+
+h2 {
+  font-size: 20px;
+  line-height: 22px;
+  letter-spacing: -0.63;
+}
+
+h3 {
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.8;
+}
+
+h4 {
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: -0.25;
+}
+
+.body2 {
+  font-size: 11px;
+  line-height: 18px;
+  letter-spacing: -0.23;
 }

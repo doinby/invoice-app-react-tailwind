@@ -1,9 +1,10 @@
 import React from 'react';
 
+// Components
+import TestTypography from './Pages/Test_RemoveFromFinalBuild/TestTypography';
+
+// Assets
+
 export default function App() {
-  return (
-    <h1 className='bg-purple-primary'>
-      App works! <br /> Hello world!
-    </h1>
-  );
+  return <TestTypography />;
 }
