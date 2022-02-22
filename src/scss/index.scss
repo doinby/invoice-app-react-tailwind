@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@500;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Spartan', sans-serif;
+  font-size: 12px;
+}
+
+h1 {
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 36px;
+  letter-spacing: -1px;
+}

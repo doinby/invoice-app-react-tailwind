@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 import App from './App';
 
 // Assets & Stylesheet
-import './index.css';
+import './scss/index.scss';
 
 ReactDOM.render(
   <React.StrictMode>
